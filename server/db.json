@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "breed": "Bulldog",
+    "name": "Jack",
+    "birth": "2000.05.10",
+    "url" : "https://i.guim.co.uk/img/media/38b9433aa08dc7ebeaf74405b24f19f7be0078c7/0_100_3000_1801/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=78f3476aebe0ffd1bc5cfbc6e2ae16a2"
+  },
+  {
+    "id": 2,
+    "breed": "Bokser",
+    "name": "Rocky",
+    "birth": "2002.05.08",
+    "url": "https://s36700.pcdn.co/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg.optimal.jpg"
+  },
+  {
+    "id" : 3,
+    "breed" : "Spaniel",
+    "name" : "Carmen",
+    "birth" : "2009.02.11",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/9/99/EnglishCockerSpaniel_wb.jpg"
+  },
+  {
+    "id" : 4,
+    "breed" : "Pug",
+    "name" : "Reksio",
+    "birth" : "2015.02.11",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pug_portrait.jpg"
+  },
+  {
+    "id" : 5,
+    "breed" : "Bulldog",
+    "name" : "Jane",
+    "birth" : "2021.09.10",
+    "url" : "https://s.hdnux.com/photos/01/20/22/57/21048282/4/1200x0.jpg"
+  }
+]

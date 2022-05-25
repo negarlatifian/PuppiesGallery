@@ -1,0 +1,8 @@
+.updateForm__input {
+  display: block;
+  height: 30px;
+  width: 350px;
+  margin: 0.4em auto;
+  border: none;
+  border-radius: 6px;
+}
